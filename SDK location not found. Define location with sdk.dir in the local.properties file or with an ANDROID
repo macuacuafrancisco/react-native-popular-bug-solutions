@@ -1,7 +1,6 @@
-BUG:  SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID
+#BUG:  SDK location not found. Define location with sdk.dir in the local.properties file or with an ANDROID
 
-
-SOLUTION: 
+#SOLUTION: 
 
 ++++++++++++++++MACOSX+++++++++++++++++++
 
@@ -41,8 +40,6 @@ sdk.dir = /Users/imac/Library/Android/sdk
 (3) Save the File
 
 (4) Restartar the Terminal
-
-DONE.
 
 DONE.
 
